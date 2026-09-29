@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/core_cli.dir/link.d CMakeFiles/core_cli.dir/src/main.cpp.o -o steamtools-cli  -Wl,-rpath,/home/aekscx/steamtools-lin/_build_check libsteamcore.so

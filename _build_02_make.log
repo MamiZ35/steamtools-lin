@@ -1,0 +1,11 @@
+make: Entering directory '/home/aekscx/steamtools-lin/_build_02'
+[  6%] Building CXX object CMakeFiles/steamcore.dir/src/host_cfg.cpp.o
+[ 13%] Linking CXX shared library libsteamcore.so
+[ 73%] Built target steamcore
+[ 80%] Building CXX object CMakeFiles/core_cli.dir/src/main.cpp.o
+[ 86%] Linking CXX executable steamtools-cli
+[ 86%] Built target core_cli
+[ 93%] Building CXX object CMakeFiles/crypto_test.dir/src/cryptotest.cpp.o
+[100%] Linking CXX executable crypto_test
+[100%] Built target crypto_test
+make: Leaving directory '/home/aekscx/steamtools-lin/_build_02'

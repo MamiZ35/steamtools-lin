@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/crypto_test.dir/link.d CMakeFiles/crypto_test.dir/src/cryptotest.cpp.o -o crypto_test  -Wl,-rpath,/home/aekscx/steamtools-lin/_build_check libsteamcore.so

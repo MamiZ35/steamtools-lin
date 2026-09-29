@@ -1,0 +1,5 @@
+/home/aekscx/steamtools-lin/_build_check/CMakeFiles/steamcore.dir
+/home/aekscx/steamtools-lin/_build_check/CMakeFiles/core_cli.dir
+/home/aekscx/steamtools-lin/_build_check/CMakeFiles/crypto_test.dir
+/home/aekscx/steamtools-lin/_build_check/CMakeFiles/edit_cache.dir
+/home/aekscx/steamtools-lin/_build_check/CMakeFiles/rebuild_cache.dir

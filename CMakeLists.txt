@@ -22,6 +22,7 @@ add_library(steamcore SHARED
     src/appids_db.cpp
     src/eticket.cpp
     src/host_cfg.cpp
+    src/steamid_conv.cpp
 )
 target_include_directories(steamcore PUBLIC src)
 
@@ -42,3 +43,6 @@ set_target_properties(core_cli PROPERTIES OUTPUT_NAME steamtools-cli)
 add_executable(crypto_test src/cryptotest.cpp)
 target_link_libraries(crypto_test PRIVATE steamcore)
 
+# 01-userid regression suite (branch CLOSED)
+add_executable(01_userid_test src/user_id_test.cpp)
+target_link_libraries(01_userid_test PRIVATE steamcore)

@@ -15,6 +15,7 @@
 #include <vector>
 #include <unordered_map>
 
+#include "steamid_conv.h"  # 01-userid (CLOSED): SteamID conversion namespace
 
 namespace steamcore {
 
